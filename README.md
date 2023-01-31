@@ -79,5 +79,5 @@
 - MoSold: Month Sold
 - YrSold: Year Sold
 - SaleType: Type of sale
-- SaleCondition: Condition of sale
+- SaleCondition: Condition of sale <br>
 if u want to know deeper, here the link of dataset: `https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data`
